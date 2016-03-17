@@ -1,5 +1,5 @@
 {
-  "name": "microphone",
+  "name": "@octoblu/microphone",
   "description": "microphone is a simple module that use `arecord` ALSA tools method to capture sound from a USB Microphone",
   "version": "1.0.8",
   "author": "Vincent Saluzzo",
